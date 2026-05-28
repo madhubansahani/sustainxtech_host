@@ -1,6 +1,6 @@
 {
-    "name": "wedeploy",
-    "short_name": "wedeploy",
+    "name": "all_portfolio_ui",
+    "short_name": "all_portfolio_ui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
